@@ -1,0 +1,30 @@
+/* Import Google Font cdn link */
+@import url("https://fonts.google.apis.com/css2?family=Poppins:wght@400;600&display=swap");
+*{
+   margin: 0; 
+   padding: 0;
+   box-sizing: border-box;
+   font-family: "Poppins", sans-serif;
+}
+body {
+    background-image: url("images/image.png");
+    color: #fff;
+    background-size: cover;
+    background-position: center;
+    display:flex;
+}
+.container{
+    padding: 10px 10%;
+}
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.logo{
+    width: 140px;
+    i
+}
+
+
